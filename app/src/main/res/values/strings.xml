@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EjemploSpinner</string>
+
+
+    <string-array name="estados_civiles">
+        <item>Soltero/a</item>
+        <item>Casado/a</item>
+        <item>Unión libre o unión de hecho</item>
+        <item>Separado/a</item>
+        <item>Divorciado/a</item>
+        <item>Viudo/a</item>
+    </string-array>
+
+</resources>
